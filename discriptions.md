@@ -66,6 +66,15 @@ This document outlines the design plan for my GitHub portfolio website. It inclu
   - Instagram
 - Use icons from a library like FontAwesome for consistent design.
 - Ensure buttons are responsive and have hover effects.
+
+### f) Responsiveness
+- Ensure the website is fully responsive and works well on all screen sizes:
+  - Mobile devices (width < 768px).
+  - Tablets (768px ≤ width < 1024px).
+  - Laptops and desktops (width ≥ 1024px).
+- Use CSS media queries for adapting the layout and components.
+- Test responsiveness on various devices and browser sizes.
+
 ---
 
 ### Note:
