@@ -1,0 +1,15 @@
+# robots.txt for https://yourusername.github.io/portfolio-website/
+
+# Allow all bots to crawl the site
+User-agent: *
+
+# Allow crawling of all pages
+Allow: /
+
+# Disallow crawling of specific files or directories (if needed)
+Disallow: /assets/
+Disallow: /css/
+Disallow: /js/
+
+# Sitemap location (optional but recommended)
+Sitemap: https://yourusername.github.io/portfolio-website/sitemap.xml
