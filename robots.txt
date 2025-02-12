@@ -1,4 +1,4 @@
-# robots.txt for https://yourusername.github.io/portfolio-website/
+# robots.txt for https://wkazisan.github.io/feoavif
 
 # Allow all bots to crawl the site
 User-agent: *
@@ -10,6 +10,16 @@ Allow: /
 Disallow: /assets/
 Disallow: /css/
 Disallow: /js/
+Disallow: https://www.feoavif.me/cv
+Disallow: https://www.feoavif.me/contact
+Disallow: https://www.feoavif.me/about
+Disallow: https://www.feoavif.me/discriptions.md
+Disallow: https://www.feoavif.me/README.md
+Disallow: https://www.feoavif.me/
+Disallow: https://github.com/wkazisan/feoavif/blob/main/CNAME
+
+
+
 
 # Sitemap location (optional but recommended)
-Sitemap: https://yourusername.github.io/portfolio-website/sitemap.xml
+Sitemap: https://www.feoavif.me/sitemap.xml
